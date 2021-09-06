@@ -1,0 +1,4 @@
+SAOUHSC_02803 (of NC_007795.1)fibronectin-binding protein (Staphylococcus aureus, DNA)
+     tttgggcccaaa   1 atgggacaag acaaagaagc tgcagcatca gaacaaaaga caactacagt agaagaaaat  61 gggaattcag ctactgataa taaaacaagt gaaacacaaa caactgcaac taacgttaat2881 gaatcaacaa acaaaggtat gttgttcggc ggattattca gcattctagg tttagcatta2941 ttacgcagaa ataaaaagaa tcacaaagca taa
+     tttgggcccaaa
+
